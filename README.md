@@ -333,12 +333,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - [Groq](https://groq.com) - Lightning-fast LLM inference
@@ -349,28 +343,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Llama 3.1](https://ai.meta.com/llama/) - Meta's open-source LLM
 - [SQLCoder](https://github.com/defog-ai/sqlcoder) - Specialized SQL generation model
 
----
-
-## 📞 Contact & Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/YOUR_USERNAME/nl2sql-query-system/issues)
-- **Discussions**: [Ask questions or share ideas](https://github.com/YOUR_USERNAME/nl2sql-query-system/discussions)
-- **Email**: your.email@example.com
-
----
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/nl2sql-query-system&type=Date)](https://star-history.com/#YOUR_USERNAME/nl2sql-query-system&Date)
-
----
-
-<div align="center">
-
-**Made with ❤️ and AI**
-
-[⬆ Back to Top](#-nl2sql---natural-language-to-sql-query-system)
-
-</div>
