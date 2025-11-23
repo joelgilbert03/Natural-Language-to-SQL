@@ -55,7 +55,7 @@ graph TB
    - Auto-corrects syntax errors
    - Optimizes queries for performance
 
-3. **Explainer Agent** (Groq/Llama-3.1-70B)
+3. **Explainer Agent** (Groq/Llama-3.1-8B Instant)
    - Analyzes query results
    - Generates business insights
    - Creates human-friendly summaries
@@ -148,13 +148,6 @@ Open your browser to `http://localhost:8501`
 "What's the average order value for customers in California last month?"
 "Show me products with low stock levels (less than 50 units)"
 "Which regions had the highest growth in Q4?"
-```
-
-### DBA Mode (Password Protected)
-```
-"Update the price of product_id 42 to 29.99"
-"Delete orders older than 2 years"
-"Insert a new customer record"
 ```
 
 ---
@@ -287,8 +280,6 @@ python scripts/health_check.py
 - [Quick Start Guide](QUICKSTART.md) - Get up and running in 5 minutes
 - [Project Structure](PROJECT_STRUCTURE.md) - Detailed code organization
 - [Database Setup](scripts/DATABASE_SETUP.md) - Sample database installation
-- [Deployment Checklist](DEPLOYMENT_CHECKLIST.md) - Production deployment guide
-- [HuggingFace Guide](HF_DEPLOYMENT_CHECKLIST.md) - Deploy to HF Spaces
 
 ---
 
