@@ -216,7 +216,6 @@ nl2sql-query-system/
 
 ### Access Control
 - 🔒 **Read-Only Mode** - Default, SELECT queries only
-- 🔓 **DBA Mode** - Password protected, full CRUD access
 - ⏱️ Session timeout (1 hour)
 - 🔐 Timing-attack resistant authentication
 
