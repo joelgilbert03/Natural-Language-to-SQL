@@ -319,8 +319,6 @@ We welcome contributions! Here's how you can help:
 - Schema changes require vector store reinitialization
 - Groq API may have occasional latency spikes
 
-See [Issues](https://github.com/YOUR_USERNAME/nl2sql-query-system/issues) for current bugs and feature requests.
-
 ---
 
 ## 🗺️ Roadmap
